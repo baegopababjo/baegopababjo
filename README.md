@@ -48,6 +48,12 @@
 
 <br>
 
+<!--
+<div align ="center">
+ ![Dahun's GitHub stats](https://github-readme-stats.vercel.app/api?username=baegopababjo&show_icons=true&theme=radical) 
+</div>
+--->
+
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="mailto:ekgns1106@naver.com">
@@ -55,3 +61,12 @@
       src="https://img.shields.io/badge/ekgns1106@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+<!--
+<h3 align="center">💡 My Git Stats 💡</h3>
+<p align="center">
+  <a href="https://github.com/baegopababjo">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=baegopababjo&&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
+  </a>
+</p>
+--->
+
