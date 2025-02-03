@@ -20,8 +20,11 @@
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/c++-007ACC.svg?style=for-the-badge&logo=cplusplus&logoColor=#00599C" />&nbsp
+  <img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat" />&nbsp
   <img src="https://img.shields.io/badge/unrealengine-FF4154?style=for-the-badge&logo=unrealengine&logoColor=#0E1128" />&nbsp
+  <img src="https://img.shields.io/badge/unity-FF4154?style=for-the-badge&logo=unity&logoColor=#FEAB02" />&nbsp
   <img src="https://img.shields.io/badge/pubg-FF4154?style=for-the-badge&logo=pubg&logoColor=#FEAB02" />&nbsp
+  
 </div>
 
 <br>
@@ -44,6 +47,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/unrealengine-FF4154?style=for-the-badge&logo=unrealengine&logoColor=#0E1128" />&nbsp
+  <img src="https://img.shields.io/badge/unity-FF4154?style=for-the-badge&logo=unity&logoColor=#FEAB02" />&nbsp
 </div>
 
 <br>
